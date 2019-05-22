@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559953958807",
+    "firebase_url": "https://shopstop-3a88c.firebaseio.com",
+    "project_id": "shopstop-3a88c",
+    "storage_bucket": "shopstop-3a88c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559953958807:android:dd24049972b6d9fa",
+        "android_client_info": {
+          "package_name": "com.fahadapp.flutterdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559953958807-q5fo66ptbi2u7iojab1h3oecs3a2nt78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNMFYSww0rcTgznmYEbTrN8ibGfHxc28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559953958807-q5fo66ptbi2u7iojab1h3oecs3a2nt78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

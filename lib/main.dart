@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_drawer/rootpage.dart';
 import 'ClothesAccessories.dart';
 import 'ElectronicAccessories.dart';
-import 'MainPage.dart';
 import 'Orders.dart';
 import 'Notification_Page.dart';
 
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           primaryColor: defaultTargetPlatform == TargetPlatform.iOS
               ? Colors.grey[50]
               : null),
-      home: new MainPage(),
+      home: new RootPage(),
       routes: <String, WidgetBuilder>{
         '/screen1': (BuildContext context) =>
             new NewPage1("Clothes & Accessories"),
